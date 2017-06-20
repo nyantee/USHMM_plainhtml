@@ -1,0 +1,23 @@
+{
+  "name": "clera",
+  "version": "1.0.0",
+  "description": "USHMM project",
+  "main": "script.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "USHMM",
+    "game",
+    "Holocaust",
+    "Museum",
+    "Adventure",
+    "Story",
+    "Messaging"
+  ],
+  "author": "Nyantee Asherman",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
